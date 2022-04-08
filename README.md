@@ -2,6 +2,8 @@ This is my personal repository on <a href="https://pll.harvard.edu/course/cs50-i
 
 <hr />
 
+<h2 style="color: #ff69b4">C</h2>
+
 <strong>Week 00</strong><br />
 <a href="week_00/Taco_Time.sb3">Scratch: Taco Time</a>
 
@@ -12,3 +14,10 @@ This is my personal repository on <a href="https://pll.harvard.edu/course/cs50-i
 - Mario (More)
 - Cash
 - Credit
+
+<strong>Week 02</strong><br />
+
+- Scrabble
+- Readibility
+- Caesar
+- Substitution
