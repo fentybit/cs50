@@ -28,3 +28,9 @@ This is my personal repository on <a href="https://pll.harvard.edu/course/cs50-i
 - Plurality
 - Runoff
 - Tideman
+
+<strong>Week 04</strong><br />
+
+- Volume
+- Filter (Less)
+- Recover
