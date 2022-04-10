@@ -21,3 +21,10 @@ This is my personal repository on <a href="https://pll.harvard.edu/course/cs50-i
 - Readibility
 - Caesar
 - Substitution
+
+<strong>Week 03</strong><br />
+
+- Sort
+- Plurality
+- Runoff
+- Tideman

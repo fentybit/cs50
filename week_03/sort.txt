@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It runs a bit more efficient compared to sort3 when running sorted numbers. Bubble Sort has linear time complexity on best scenario.
+
+sort2 uses: Merge Sort
+
+How do you know?: It runs most efficient on random, reversed and sorted numbers on time complexity.
+
+sort3 uses: Selection Sort
+
+How do you know?: It runs least efficient as the time complexity is still O(n^2) on all given numbers.
