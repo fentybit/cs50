@@ -46,3 +46,9 @@ This is my personal repository on <a href="https://pll.harvard.edu/course/cs50-i
 - Sentimental / Cash
 - Sentimental / Readability
 - DNA
+
+<strong>Week 07</strong><br />
+
+- Songs
+- Movies
+- Fiftyville (_my favorite!_)
