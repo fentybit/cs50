@@ -57,3 +57,8 @@ This is my personal repository on <a href="https://pll.harvard.edu/course/cs50-i
 
 - Trivia
 - Homepage
+
+<strong>Week 09</strong><br />
+
+- Birthdays
+- Finance
