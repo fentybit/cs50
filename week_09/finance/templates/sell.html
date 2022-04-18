@@ -1,0 +1,23 @@
+{% extends "layout.html" %} {% block title %} Sell Stock {% endblock %} {% block main %}
+<form action="/sell" method="post">
+  <div class="mb-3">
+    <select required name="symbol" class="form-control mx-auto w-auto" aria-label="Default select">
+      <option value="">Available stocks</option>
+
+      {% for symbol in owns %}
+      <option value="{{symbol}}">{{ symbol }}</option>
+      {% endfor %}
+
+      <input
+        required
+        class="form-control mx-auto w-auto"
+        name="shares"
+        placeholder="Number of shares"
+        type="number"
+        min="1"
+      />
+    </select>
+  </div>
+  <button class="btn btn-primary" type="submit">Sell</button>
+</form>
+{% endblock %}
