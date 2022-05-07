@@ -62,3 +62,7 @@ This is my personal repository on <a href="https://pll.harvard.edu/course/cs50-i
 
 - Birthdays
 - Finance
+
+<strong>Week 10 (Final Project)</strong><br />
+
+- <a href="https://github.com/fentybit/NoteToSelf">Note to Self</a>
