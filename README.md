@@ -38,6 +38,8 @@ This is my personal repository on <a href="https://pll.harvard.edu/course/cs50-i
 - Inheritance
 - Speller
 
+<h2>Python</h2>
+
 <strong>Week 06</strong><br />
 
 - World Cup Tournament
@@ -47,16 +49,22 @@ This is my personal repository on <a href="https://pll.harvard.edu/course/cs50-i
 - Sentimental / Readability
 - DNA
 
+<h2>SQL</h2>
+
 <strong>Week 07</strong><br />
 
 - Songs
 - Movies
 - Fiftyville (_my favorite!_)
 
+<h2>HTML, CSS, JavaScript</h2>
+
 <strong>Week 08</strong><br />
 
 - Trivia
 - Homepage
+
+<h2>Flask</h2>
 
 <strong>Week 09</strong><br />
 
